@@ -1,0 +1,14 @@
+#food {
+	padding-top: 100px;
+	min-height: 800px;
+	padding-bottom: 0px;
+	background-image: url('../images/union_jack.png');
+	background-size: cover;
+	background-attachment: fixed;
+	font-size: 20px;
+
+}
+#food p {
+	color: black;
+	background-color: rgba(255,255,255,0.4)
+}

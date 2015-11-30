@@ -1,0 +1,87 @@
+.navbar-header {
+	font-weight: bold;
+}
+
+.dropdown-menu {
+     background-color: white;
+}
+
+
+.col-md-2 {
+	padding-top: 30px;
+	text-align: justify;
+}
+
+.col-md-3 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: justify;
+}
+
+.col-sm-4 {
+	padding-top: 30px;
+	text-align: right;
+}
+
+.col-sm-6 {
+	text-align: justify;
+	padding-top: 30px;
+}
+
+.col-sm-8 h1 {
+	font-size: 50px;
+}
+
+.col-sm-8 {
+	padding-top: 10px;
+}
+
+
+
+a.type1{
+	color: black;
+}
+
+figcaption {
+	font-size: 16px;
+}
+
+figure {
+	padding-bottom: 50px;
+}
+
+#footer {
+	margin: 30px;
+	text-align: center;
+	background-color: white;
+}
+
+#social-buttons {
+	padding-bottom: 50px;
+}
+
+.fa-github {
+	color: #444444;
+}
+.fa-github:hover {
+	color: red;
+}
+
+.fa-facebook {
+	color: #3B5998;
+}
+.fa-facebook:hover {
+	color: red;
+}
+
+.fa-twitter {
+	color: #55ACEE 
+}
+.fa-twitter:hover {
+	color: red;
+}
+
+.fa-envelope-o:hover {
+	color: red;
+}
+

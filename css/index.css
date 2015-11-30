@@ -1,0 +1,41 @@
+.jumbotron {
+	margin: 0px;
+	min-height: 650px;
+	padding-bottom: 0px;
+	background-image: url('../images/wallpaper2.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	color: rgb(255, 255, 255);
+	text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
+}
+
+.jumbotron p {
+	font-size: 30px;
+}
+
+#presentation {
+	color: rgba(255, 133, 51,0.9);
+	background-color: rgb(245,245,245);
+
+}
+
+#presentation h2 {
+	color: rgba(255, 133, 51,1);
+	text-decoration: underline;
+}
+
+#presentation p {
+		font-size: 18px;
+}
+
+#mylife {
+	background-color: rgb(230,230,230);
+	padding-top: 30px;
+}
+#mylife p {
+	font-size: 16px;
+}
+
+#blabla {
+	text-align: justify;
+}
